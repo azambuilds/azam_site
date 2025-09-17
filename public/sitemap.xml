@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://azamrahman.com/</loc>
+    </url>
+    <url>
+        <loc>https://azamrahman.com/blog/</loc>
+    </url>
+    <url>
+        <loc>https://azamrahman.com/blog/20250917-hello-world/</loc>
+        <lastmod>2025-09-17</lastmod>
+    </url>
+    <url>
+        <loc>https://azamrahman.com/blog/20250918-mixplate-ai-one-year-one-app-one-big-pivot/</loc>
+        <lastmod>2025-09-18</lastmod>
+    </url>
+    <url>
+        <loc>https://azamrahman.com/blog/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://azamrahman.com/tags/</loc>
+    </url>
+    <url>
+        <loc>https://azamrahman.com/tags/duckquill/</loc>
+    </url>
+    <url>
+        <loc>https://azamrahman.com/tags/meta/</loc>
+    </url>
+    <url>
+        <loc>https://azamrahman.com/tags/zola/</loc>
+    </url>
+</urlset>

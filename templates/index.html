@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+
+{% block content %}
+{{ section.content | safe }}
+
+<hr />
+<h2>Latest posts</h2>
+{% set blog = get_section(path="blog/_index.md") %}
+{% set latest = blog.pages | first %}
+{% if latest %}
+<p><a href="{{ latest.permalink | safe }}">👉 Read the latest post: {{ latest.title }}</a></p>
+{% endif %}
+<ul>
+  {% for page in blog.pages | slice(end=5) %}
+    <li>
+      <a href="{{ page.permalink | safe }}">{{ page.title }}</a>
+      {% if page.date %}<small> — {{ page.date | date(format="%B %d, %Y") }}</small>{% endif %}
+    </li>
+  {% endfor %}
+</ul>
+<p><a href="{{ get_url(path='@/blog/_index.md') }}">All posts →</a></p>
+{% endblock content %}
