@@ -71,3 +71,6 @@ node_modules/
 
 # Zola stuff
 /public
+
+# Temp stuff
+/temp
