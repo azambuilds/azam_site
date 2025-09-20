@@ -10,7 +10,7 @@ Folder naming convention
 - Do not set `slug` in front matter; the folder name handles ordering/sorting.
 
 Output format (this is mandatory)
-1) TOML front matter delimited by +++ at top and bottom.
+1) TOML front matter delimited by +++ at top and bottom. (MAKE SURE TO HAVE 3 PLUS SIGNS, NO MORE NO LESS, to start and end the front matter)
 2) A short intro paragraph.
 3) A summary cutoff marker: `<!-- more -->` on its own line.
 4) The rest of the article content (headings, sections, etc.).

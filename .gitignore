@@ -69,7 +69,7 @@ node_modules/
 .dataconnect
 
 
-# Zola stuff
+# # Zola stuff
 /public
 
 # Temp stuff
