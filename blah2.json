@@ -1,0 +1,112 @@
+{
+    "post_id": "18524772418026521",
+    "caption_text": "“Success is the sum of small efforts, repeated day in and day out.” -Robert Collier #growth #mindset #motivation",
+    "cta_analysis": {
+        "ctaType": "engagementQuestion",
+        "containsCta": true,
+        "ctaIntensity": "clear",
+        "ctaPlacement": "audioTranscript",
+        "ctaTextExtracted": [
+            "What do you guys think about that, and what does Aristotle's quote mean to you?"
+        ]
+    },
+    "funnel_stage": "middleOfFunnelConsideration",
+    "schema_version": 20250909,
+    "actual_media_type": "shortFormVideoReel",
+    "content_structure": {
+        "imageStyle": "notApplicable",
+        "videoStructure": "hookBodyTakeaway",
+        "carouselStructure": "notApplicable",
+        "imageStyleAnalysis": {
+            "infographicText": "",
+            "quoteGraphicText": ""
+        },
+        "videoStructureAnalysis": {
+            "hookText": "Aristotle said, 'We are what we repeatedly do.' Excellence, then, is not an act, but a habit.",
+            "bodySummary": "Speaker explains Aristotle's idea about habits and consistency, arguing that daily disciplined actions build desired outcomes rather than luck or single opportunities.",
+            "takeawayText": "Small, consistent actions compound into long-term success; invites audience reflection by asking for their interpretation of the quote.",
+            "solveStatement": "Adopt consistent daily habits and show up regularly to shape the life you want.",
+            "agitateStatement": "",
+            "problemStatement": ""
+        },
+        "carouselStructureAnalysis": {
+            "listicleText": "",
+            "narrativeText": "",
+            "problemSolutionText": "",
+            "stepByStepGuideText": ""
+        }
+    },
+    "detected_hashtags": [
+        "#growth",
+        "#mindset",
+        "#motivation"
+    ],
+    "analysis_timestamp": "2025-09-30T03:05:36.371164Z",
+    "inferred_archetype": "inspirationalMotivational",
+    "video_transcription": "Aristotle said, we are what we repeatedly do. Excellence, then, is not an act, but a habit. To me, this means that what we want is built through consistency, consistent daily actions. The choices we make, whether to show up or not or to stay disciplined and do the hard things, add up and ultimately shape the person that we are or want to become. So it's not so much about luck or the perfect opportunity. It's more so about creating the lifestyle you want through your daily habits. That's really what I took away from Aristotle's quote. What do you guys think about that, and what does Aristotle's quote mean to you?\n",
+    "key_themes_or_topics": [
+        "consistency",
+        "habits",
+        "mindset",
+        "motivation",
+        "personal development",
+        "daily routine"
+    ],
+    "promotional_analysis": {
+        "evidence": [
+            "No product, service, pricing, or link mentioned in caption or transcript.",
+            "Primary CTA asks for audience opinion, not a conversion action."
+        ],
+        "offerType": "",
+        "usesUrgency": false,
+        "isPromotional": false,
+        "promotionalIntensity": "none"
+    },
+    "inferred_post_objective": "increaseEngagementInteraction",
+    "calls_to_action_observed": [
+        "What do you guys think about that, and what does Aristotle's quote mean to you?"
+    ],
+    "key_takeaways_for_client": [
+        "Short, quote-led reels can position a health brand as a thoughtful, wellness-first authority — useful for nurturing existing followers.",
+        "This post underperformed vs. the account average (likes ~49% of avg, comments ~41% of avg), indicating the format or messaging may need optimization to reliably drive higher engagement.",
+        "Including a clear, topical tie to your services (e.g., habits → recovery/consistency in care) could convert motivational content into stronger consideration signals for prospective patients."
+    ],
+    "potential_campaign_clues": [
+        "Consistent use of mindset-related hashtags (#growth #mindset #motivation) — could indicate a themed content stream.",
+        "Quote-driven talking-head format suggests a possible recurring 'daily/weekly mindset' series.",
+        "Spoken open question CTA indicates intent to increase comments and community conversation (engagement-focused campaign)."
+    ],
+    "llm_tone_style_description": "Reflective, motivational, conversational and sincere — a talking-head / voiceover that reads like personal coaching. Language is simple, encouraging, and invites audience reflection rather than selling.",
+    "ai_summary_of_post_strategy": "A short, quote-driven reel intended to build relatability and invite comments by turning a well-known quote into a personal reflection — aiming to boost engagement and reinforce motivational/wellness positioning.",
+    "extracted_campaign_attributes": {
+        "locationsMentioned": [],
+        "eligibilityForOffer": [],
+        "eventTimesMentioned": [],
+        "explicitEndDateYyyyMmDd": "",
+        "eventDaysOrDatesMentioned": [],
+        "explicitStartDateYyyyMmDd": "",
+        "specificOffersOrDiscountsDetailed": [],
+        "explicitEventOrCampaignNamesMentioned": []
+    },
+    "mentioned_products_or_services": [],
+    "brand_alignment_inference_notes": "No competitor_brand_model provided, so alignment is inferred vs. general wellness/mindset positioning. The post's motivational, reflective tone and talking-head delivery align with a wellness-focused brand seeking to build authority and emotional connection. It fits a persona that values daily habits and holistic wellbeing, but lacks explicit ties to service offerings or clinic-specific messaging, which both strengthens broad reach and weakens direct conversion alignment.",
+    "post_public_performance_context": {
+        "post_id": "18524772418026521",
+        "permalink": "https://www.instagram.com/reel/DPM0EiNDrGu/",
+        "like_count": 28,
+        "comments_count": 2,
+        "like_count_ratio_vs_account_avg_last_28d": 0.49122807017543857,
+        "comments_count_ratio_vs_account_avg_last_28d": 0.4137931034482759
+    },
+    "account_level_performance_context": {
+        "average_like_count": 57.0,
+        "average_comment_count": 4.833333333333333
+    },
+    "human_visually_present_in_content": true,
+    "potential_campaign_types_suggested": [
+        "ThoughtLeadershipSeries",
+        "EngagementBoostSeries",
+        "CommunityDiscussionSeries"
+    ],
+    "sentiment_score_negative_one_to_positive_one": 0.4
+}

@@ -1,0 +1,116 @@
+{
+    "post_id": "18237075076288924",
+    "caption_text": "Your attention is a muscle, and gratitude is how you train it. A few honest moments of thankfulness can soften stress, steady your nervous system, and change the tone of your day. \n\nDrop a comment with one good thing, big or small, you noticed in your day today. \n\n#gratitude #thankfulness #drjoshaxe #draxe #thedrjoshaxeshow",
+    "cta_analysis": {
+        "ctaType": "engagementQuestion",
+        "containsCta": true,
+        "ctaIntensity": "clear",
+        "ctaPlacement": "caption",
+        "ctaTextExtracted": [
+            "Drop a comment with one good thing, big or small, you noticed in your day today."
+        ]
+    },
+    "funnel_stage": "topOFunnelAwareness",
+    "schema_version": 20250909,
+    "actual_media_type": "staticImage",
+    "content_structure": {
+        "imageStyle": "quoteGraphic",
+        "videoStructure": "notApplicable",
+        "carouselStructure": "notApplicable",
+        "imageStyleAnalysis": {
+            "infographicText": "N/A — single-image quote-style visual designed for quick consumption and shareability.",
+            "quoteGraphicText": "Likely a stylized text-over-image post emphasizing a short, memorable wellness insight (gratitude as practice)."
+        },
+        "videoStructureAnalysis": {
+            "hookText": "",
+            "bodySummary": "",
+            "takeawayText": "",
+            "solveStatement": "",
+            "agitateStatement": "",
+            "problemStatement": ""
+        },
+        "carouselStructureAnalysis": {
+            "listicleText": "",
+            "narrativeText": "",
+            "problemSolutionText": "",
+            "stepByStepGuideText": ""
+        }
+    },
+    "detected_hashtags": [
+        "gratitude",
+        "thankfulness",
+        "drjoshaxe",
+        "draxe",
+        "thedrjoshaxeshow"
+    ],
+    "analysis_timestamp": "2025-09-30T03:00:02.016314Z",
+    "inferred_archetype": "inspirationalMotivational",
+    "video_transcription": null,
+    "key_themes_or_topics": [
+        "gratitude",
+        "mindfulness",
+        "stress reduction",
+        "daily wellbeing habits",
+        "community engagement"
+    ],
+    "promotional_analysis": {
+        "evidence": [
+            "Caption contains no product link or offer language.",
+            "Primary CTA asks for a comment rather than a purchase or signup.",
+            "Hashtags reference personal brand/podcast rather than a specific sale."
+        ],
+        "offerType": "",
+        "usesUrgency": false,
+        "isPromotional": false,
+        "promotionalIntensity": "none"
+    },
+    "inferred_post_objective": "increaseEngagementInteraction",
+    "calls_to_action_observed": [
+        "Drop a comment with one good thing, big or small, you noticed in your day today."
+    ],
+    "key_takeaways_for_client": [
+        "Short, universally relatable wellness prompts (gratitude) drive strong like/reach signals — this post received ~6.9x the account’s average likes, suggesting broad resonance with positive, low-effort content.",
+        "Directly asking for a small, low-friction response (one sentence comment) can increase visible engagement — although comments here are lower vs. account average, the CTA still encourages community interaction and likely boosts reach via likes/shares.",
+        "Branded hashtags and show references (e.g., #thedrjoshaxeshow) keep visibility tied to the creator’s ecosystem without overt selling; useful for long-term brand recall."
+    ],
+    "potential_campaign_clues": [
+        "Uses branded show hashtag #thedrjoshaxeshow — could tie to ongoing podcast/content series",
+        "Consistent wellness/mindset messaging that fits a long-running content series rather than one-off promotion",
+        "Engagement-focused CTA asking for UGC-style comments, which can be amplified in later content or repurposed"
+    ],
+    "llm_tone_style_description": "Warm, encouraging, concise and motivational — authoritative but approachable. Language is accessible, calming, and designed to prompt introspection and a small social action.",
+    "ai_summary_of_post_strategy": "Use a short, positive, shareable quote-style image and a low-friction engagement CTA (comment one good thing) to drive broad likes/reach, reinforce the creator’s wellness brand, and maintain an ongoing community habit tied to the personal brand/podcast.",
+    "extracted_campaign_attributes": {
+        "locationsMentioned": [],
+        "eligibilityForOffer": [],
+        "eventTimesMentioned": [],
+        "explicitEndDateYyyyMmDd": "",
+        "eventDaysOrDatesMentioned": [],
+        "explicitStartDateYyyyMmDd": "",
+        "specificOffersOrDiscountsDetailed": [],
+        "explicitEventOrCampaignNamesMentioned": []
+    },
+    "mentioned_products_or_services": [
+        "The Dr. Josh Axe Show (podcast/personal brand)"
+    ],
+    "brand_alignment_inference_notes": "No formal competitor_brand_model was provided in the input. Based on public cues (caption tone, hashtags referencing @drjoshaxe and The Dr. Josh Axe Show), the post aligns with a wellness/personal-brand strategy focused on approachable thought leadership: brief educational/reflective content, positive tone, and community-building CTAs. This matches expectations for a wellness influencer/podcast host: reinforcing authority and emotional connection rather than pushing products. If the competitor's brand pillars include mindset, daily habits, and audience engagement, this post is well aligned; if their pillars are product sales or clinic conversions, this post is less directly aligned.",
+    "post_public_performance_context": {
+        "post_id": "18237075076288924",
+        "permalink": "https://www.instagram.com/p/DPFF8wcElB7/",
+        "like_count": 26100,
+        "comments_count": 198,
+        "like_count_ratio_vs_account_avg_last_28d": 6.864479724560062,
+        "comments_count_ratio_vs_account_avg_last_28d": 0.2072114927219104
+    },
+    "account_level_performance_context": {
+        "average_like_count": 3802.181818181818,
+        "average_comment_count": 955.5454545454545
+    },
+    "human_visually_present_in_content": false,
+    "potential_campaign_types_suggested": [
+        "BrandAwareness",
+        "CommunityEngagement",
+        "ContentSeries/PodcastPromotion"
+    ],
+    "sentiment_score_negative_one_to_positive_one": 0.6
+}
